@@ -1,0 +1,13 @@
+name: Crystal-Amethyst
+version: 1.2.3
+main: me.crystalsmp.crystalamethyst.CrystalAmethyst
+api-version: '1.21'
+depend: [Vault]
+softdepend: [PlayerPoints]
+commands:
+  crystalamethyst:
+    aliases: [ca]
+    permission: crystalamethyst.admin
+permissions:
+  crystalamethyst.admin:
+    default: op

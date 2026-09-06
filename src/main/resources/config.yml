@@ -1,0 +1,18 @@
+growth-seconds: 3600
+dark-growth-multiplier: 1.25
+night-growth-multiplier: 1.25
+special-amethyst-geode-chance: 0.50
+special-amethyst-display-scale: 1.35
+crystal-coin-min: 1
+crystal-coin-max: 50
+amethyst-coin-min: 1
+amethyst-coin-max: 3
+messages:
+  prefix: "&8[&5Crystal-SMP&8] "
+  planted: "&dАметистовое семя посажено. Время роста: &f1 час&d."
+  grown: "&dОсобый аметист вырос!"
+  reward-vault: "&aВы получили &f%amount% &aмонет Vault!"
+  reward-points: "&aВы получили &f%amount% &aPlayerPoints!"
+  no-vault: "&cVault Economy недоступен."
+  no-points: "&cPlayerPoints недоступен."
+  usage: "&e/ca give <игрок> <seed|amethyst|crystal|amethystcoin> [количество]"
